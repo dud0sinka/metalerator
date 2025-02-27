@@ -1,2 +1,2 @@
 # metalerator
-Procedural metalcore generator with Python and midiutil
+Procedural metalcore generator with Python and midiutil.
