@@ -55,7 +55,7 @@ Follow these instructions to set up and run Metalerator on your local machine.
 3. The generated MIDI files will be saved in the `midis` directory.
 (optional)
 4. For audio rendering, you need to go to `/FL/metalerator.flp` and have all aformentioned plugins installed.
-5. Drag each MIDi file into the respective playlist track and export the project as an audio file.
+5. Drag each MIDI file into the respective playlist track and export the project as an audio file.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -71,7 +71,7 @@ Metalerator generates five separate MIDI tracks:
 5. Ambient Elements
 
 Each track is saved as a separate MIDI file in the `midis` directory. These files can be imported into any DAW for further editing and production.
-There are several mp3s in the `/FL/` directory for demonstration purposes.
+There are several mp3s in the `/FL` directory for demonstration purposes.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
