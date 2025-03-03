@@ -16,7 +16,7 @@
 
 ![Image](https://github.com/user-attachments/assets/45491944-46d1-46c7-b2d5-71a011c23e46)
 
-Metalerator is a Python-based procedural music generator that creates metalcore compositions in MIDI format. It generates separate tracks for rhythm guitar, drums, bass, lead guitar, and ambient elements, allowing for further refinement and production in digital audio workstations.
+Metalerator is a Python-based procedural music generator that creates metalcore tracks in MIDI format. It generates separate MIDIs for rhythm guitar, drums, bass, lead guitar, and ambient elements, allowing for further refinement and production in digital audio workstations.
 
 The project uses the `midiutil` library to create MIDI files, with procedural generation algorithms to create dynamic and varied compositions.
 
